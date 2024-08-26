@@ -20,7 +20,6 @@ I'm Amna Khalid, a BSCS student at GC University Faisalabad with a passion for f
 [![Medium Badge](https://img.shields.io/badge/-@aamnansari-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aamnansari)](https://medium.com/@aamnansari/)
 [![GitHub followers](https://img.shields.io/github/followers/aamna-ansari?label=Follow&style=social)](https://github.com/aamna-ansari/)
 [![Gmail Badge](https://img.shields.io/badge/-aamnansari29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aamnansari29@gmail.com)](mailto:aamnansari29@gmail.com)
-[![LeetCode Solved Problems](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faamna_ansari&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/aamna_ansari/)
 
 </div>
 
@@ -29,15 +28,14 @@ I'm Amna Khalid, a BSCS student at GC University Faisalabad with a passion for f
 <!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50px"> About </h1> -->
 <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="70px"> About </h1>
   
-- 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
-- 🖥️ 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀: Frontend Development
-- 👨‍🏫 𝗥𝗼𝗹𝗲: Moderator | Trainer at <a href="https://www.icode.guru/" target="_blank">iCodeGuru</a>.
-- 🧠 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Solving complex Data Structures and Algorithms
-- 🎓 𝗩𝗼𝗹𝘂𝗻𝘁𝗲𝗲𝗿: Teaches Python and DSA at <a href="https://www.icode.guru/" target="_blank">iCodeGuru</a>.
-- 🥅 2024 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
-- 🚀 𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
-- 🌍 𝗣𝗵𝗗 𝗮𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Advancing in tech in the US
-- 📞 𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
+- - 🌟 I’m currently focused on frontend development
+- 💻 Passionate about solving problems with JavaScript
+- 🔍 Always exploring and experimenting with new technologies
+- 🚀 Eager to tackle new challenges and create innovative solutions
+- - 🔭 I’m currently working on React
+- 📚 BSCS student at GC University Faisalabad
+- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/amna-khalid-612001273/)
+
 
 --- 
 <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px"> Favorite Tech</h1>
