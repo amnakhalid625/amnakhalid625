@@ -1,8 +1,9 @@
 <h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2E86C1; font-size: 2.5em; letter-spacing: 2px; text-transform: uppercase; border-bottom: 2px solid #2E86C1; padding-bottom: 10px; background: linear-gradient(to right, #2E86C1, #1F618D); color: white; display: inline-block;">
-  Hi <span style="font-family: 'Courier New', Courier, monospace; color: #F39C12; font-weight: bold;">𝚌𝚘𝚍𝚎𝚛𝚜</span>! 
+  Hello <span style="font-family: 'Courier New', Courier, monospace; color: #F39C12; font-weight: bold;">Tech Enthusiasts</span>! 
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Animated GIF with 'Hi' text and waving hand" style="vertical-align: middle; margin-left: 10px;">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Welcome.gif" width="30px" alt="Animated GIF with 'Welcome' text" style="vertical-align: middle; margin-left: 10px;">
 </h2>
+
 
 
 
@@ -14,8 +15,8 @@ I'm Amna Khalid, a BSCS student at GC University Faisalabad with a passion for f
 <!--[![Twitter Badge](https://img.shields.io/badge/-@sakshamtaneja-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/sakshamtaneja00) -->
 <div align="center">
 
-[![page views](https://komarev.com/ghpvc/?username=aamna-ansari&color=ff3377)](https://github.com/aamna-ansari/)
-[![Linkedin Badge](https://img.shields.io/badge/-aamnansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamnansari/)](https://www.linkedin.com/in/aamnansari/)
+[![page views](https://komarev.com/ghpvc/?username=aamna-ansari&color=ff3377)](https://github.com/aamnakhalid/)
+[![Linkedin Badge](https://img.shields.io/badge/-amnakhalid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amna-khalid/)](https://www.linkedin.com/in/amna-khalid/)
 [![Medium Badge](https://img.shields.io/badge/-@aamnansari-6f1727?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aamnansari)](https://medium.com/@aamnansari/)
 [![GitHub followers](https://img.shields.io/github/followers/aamna-ansari?label=Follow&style=social)](https://github.com/aamna-ansari/)
 [![Gmail Badge](https://img.shields.io/badge/-aamnansari29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aamnansari29@gmail.com)](mailto:aamnansari29@gmail.com)
