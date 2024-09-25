@@ -22,7 +22,6 @@ I'm Amna Khalid, a BSCS student at GC University Faisalabad with a passion for f
 - 🔍 Always exploring and experimenting with new technologies
 - 🔭 I’m currently working on React
 -  🚀 Eager to tackle new challenges and create innovative solutions
-- 📚 BSCS student at GC University Faisalabad
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/amna-khalid-612001273/)
 
 
