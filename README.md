@@ -17,7 +17,7 @@ I'm Amna Khalid, a BSCS student with a passion for frontend development and Java
 <!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50px"> About </h1> -->
 <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="70px"> About </h1>
   
--  🌟 I’m currently focused on frontend development
+-  🌟 I’m focusing on backend development to enhance my capabilities
 - 💻 Passionate about solving problems with JavaScript
 - 🔍 Always exploring and experimenting with new technologies
 - 🔭 I’m currently working on React
