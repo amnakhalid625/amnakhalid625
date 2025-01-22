@@ -9,8 +9,7 @@
 
 
 <!-- # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
-
-I'm Amna Khalid, a BSCS student with a passion for frontend development and JavaScript. I enjoy solving problems and exploring new technologies. I’m committed to open-source contributions and always eager for new challenges. Check out my work and connect if you’d like to collaborate!
+I'm Amna Khalid, a BSCS student and a MERN stack developer with a passion for both frontend and backend development. I enjoy solving problems, exploring new technologies, and building dynamic web applications. I’m committed to contributing to open-source projects and always eager to take on new challenges. Check out my work and feel free to connect if you'd like to collaborate! 🚀
 
 ---
      
