@@ -52,6 +52,16 @@ I'm Amna Khalid, a BSCS student and a MERN stack developer with a passion for bo
       <br>JavaScript
     </td>
      <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  alt="React"  width="48" height="48" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="150">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
       </a>
       <br>Figma
@@ -84,11 +94,17 @@ I'm Amna Khalid, a BSCS student and a MERN stack developer with a passion for bo
       </a>
       <br>Vercel
     </td>  
-        <td align="center" width="150">
+<td align="center" width="150">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="48" height="48" />
+      </a>
+      <br>Discord
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="48" height="48" />
       </a>
       <br>Slack
     </td>
+
   <td align="center" width="150">
       <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
       </a>
