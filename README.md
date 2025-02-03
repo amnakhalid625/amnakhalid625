@@ -30,90 +30,118 @@ I'm Amna Khalid, a BSCS student and a MERN stack developer with a passion for bo
 > Tools, languages, and other things that I like to work with.
 
 <table>
+  <tr><table>
   <tr>
+    <!-- Row 1 -->
     <td align="center" width="150">
-      <a href="#macropower-tech"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48" />
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="150">
-      <a href="#macropower-tech"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap"  width="48" height="48"  />
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="48" height="48" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="JavaScript"  width="48" height="48" />
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
       </a>
       <br>JavaScript
     </td>
-     <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  alt="React"  width="48" height="48" />
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="48" height="48" />
       </a>
       <br>React
     </td>
     <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="48" height="48" />
       </a>
       <br>NodeJS
     </td>
     <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="48" height="48" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <!-- Row 2 -->
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
       </a>
       <br>Figma
     </td>
-     <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="48" height="48" />
       </a>
       <br>Netlify
     </td>
-   
-  </tr>
-  <tr>
-      <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
       </a>
       <br>Git
     </td>
-     <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="48" height="48" />
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="48" height="48" />
       </a>
       <br>GitHub
     </td>
-     <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" />
       </a>
       <br>VS Code
     </td>
-       <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="48" height="48" />
       </a>
       <br>Vercel
-    </td>  
-<td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="48" height="48" />
+    </td>
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="Discord" width="48" height="48" />
       </a>
       <br>Discord
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="48" height="48" />
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="48" height="48" />
       </a>
       <br>Slack
     </td>
-
-  <td align="center" width="150">
-      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
+  </tr>
+  <tr>
+    <!-- Row 3 -->
+    <td align="center" width="150">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="48" height="48" />
       </a>
       <br>Canva
     </td>
   </tr>
 </table>
-
-
-
 
  
