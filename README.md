@@ -52,6 +52,11 @@ I'm Amna Khalid, a BSCS student and a MERN stack developer with a passion for bo
       </a>
       <br>Bootstrap
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  width="48" height="48"  />
+      </a>
+      <br>Tailwind
+    </td>
     <td align="center" width="150">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
@@ -84,6 +89,11 @@ I'm Amna Khalid, a BSCS student and a MERN stack developer with a passion for bo
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="48" height="48" />
+      </a>
+      <br>Firebase
+    </td>
     <!-- Row 2 -->
     <td align="center" width="150">
       <a href="#macropower-tech">
@@ -142,6 +152,11 @@ I'm Amna Khalid, a BSCS student and a MERN stack developer with a passion for bo
       </a>
       <br>Canva
     </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
+      </a>
+      <br>Postman
+    </td> 
   </tr>
 </table>
 
