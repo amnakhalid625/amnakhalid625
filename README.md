@@ -16,13 +16,12 @@ I'm Amna Khalid, a BSCS student and a MERN stack developer with a passion for bo
 <!-- <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="50px"> About </h1> -->
 <h1 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="70px"> About </h1>
 
-- 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development
-- 🌟 I’m focusing on backend development to enhance my capabilities
-- 💻 Passionate about solving problems with JavaScript
-- 🔍 Always exploring and experimenting with new technologies
-- 🔭 I’m currently working on React.
-- 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
-- 🚀 Eager to tackle new challenges and create innovative solutions
+- 📘  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web Development.
+- 🌟 I’m focusing on backend development to enhance my capabilities.
+- 💻 Passionate about solving problems with JavaScript.
+- 🔍 Always exploring and experimenting with new technologies.
+- 🥅 2025 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions.
+- 🚀 Eager to tackle new challenges and create innovative solutions.
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/amna-khalid-612001273/)
 
 
